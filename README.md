@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**OnyangoKabarak/OnyangoKabarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shadrack Onyango, a passionate student at Kabarak University. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on my programming skills and personal projects.
+- 🌱 I'm interested in learning various programming languages and technologies.
+- 💡 I'm always looking for new challenges and opportunities to grow as a developer.
+
+## Projects
+
+- *Check them out on my Personal Account*
+
+## Skills
+
+- Python
+- PHP
+- JavaScript
+- HTML/CSS
+- Git
+
+## Connect with Me
+
+- 📫 How to reach me: shadrackonyango30@gmail.com, sodipo@kabarak.ac.ke
+
+## Fun Fact
+
+- ⚡️ I love solving puzzles and riddles
+
+## Hobbies
+
+- 🎨 Exploring new programming concepts and technologies.
+- 🎯 Playing strategy board games.
+- 📚 Reading books on personal development and technology.
+
+**That's Me**
